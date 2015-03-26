@@ -1,5 +1,5 @@
-# betterttw
-ttw but better
+# cubingj
+ttw 2.0 -- by ange and tim
 
 ## to install [Meteor](https://www.meteor.com)
 - `curl https://install.meteor.com/ | sh`
